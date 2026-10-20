@@ -1,19 +1,64 @@
-# 💫 About Me:
-🌱 I’m currently learning Express.js, TypeScript, NestJS, Laravel.<br>⚡ Fun fact : I'am a beginer.
+<div align="center">
 
+# Hi there, I'm John Calvin 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bim.bingobong) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=450&lines=Full-Stack+%26+Backend+Enthusiast;Building+modern+web+applications;Learning+NestJS%2C+TypeScript+%26+Laravel)](https://github.com/johncalvins)
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=johncalvins&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=johncalvins&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=johncalvins&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://instagram.com/bim.bingobong" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=johncalvins&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+</div>
+
+---
+
+### 💫 About Me
+
+- 🔭 Currently building backend systems and exploring web architectures.
+- 🌱 Learning and working with **Express.js**, **TypeScript**, **NestJS**, and **Laravel**.
+- ⚡ Fun fact: Passionate learner dedicated to mastering modern web development.
+
+---
+
+### 💻 Tech Stack & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,vue,laravel,nestjs,express,tailwind,postgres,vercel,git,github" alt="Tech Stack" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=johncalvins&theme=tokyonight&show_icons=true&hide_border=false" alt="John Calvin's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=johncalvins&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Note: Top Languages will display as soon as at least one code repository is set to Public -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johncalvins&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=johncalvins&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+<div align="center">
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+
+</div>
