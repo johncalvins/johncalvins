@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=450&lines=Full-Stack+%26+Backend+Enthusiast;Building+modern+web+applications;Learning+NestJS%2C+TypeScript+%26+Laravel)](https://github.com/johncalvins)
 
 <p align="center">
-  <a href="https://instagram.com/bim.bingobong" target="_blank">
+  <a href="https://instagram.com/bim.bingbong" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
