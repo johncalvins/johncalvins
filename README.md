@@ -39,13 +39,6 @@
   <img src="https://streak-stats.demolab.com/?user=johncalvins&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
-<br/>
-
-<div align="center">
-  <!-- Note: Top Languages will display as soon as at least one code repository is set to Public -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johncalvins&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
-</div>
-
 ---
 
 ### 🏆 GitHub Trophies
